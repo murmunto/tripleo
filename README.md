@@ -1,2 +1,1 @@
-# tripleo
-TripleO: The Open Outdoor Ontology
+# TripleO: The Open Outdoor Ontology
